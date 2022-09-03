@@ -1,8 +1,13 @@
-# APP NAME
+# We'TheWomen
 
 ## 💡 Inspiration
+To provide a safer space for women and girls where they can communicate, collaborate, create their magic , and land their dream job, Our team came up with the idea of 
+**We'TheWomen** . On our website users can collaborate with thier peers to create something amazing and show it to their whole community. You can also write daily blogs on our website. The best part about our website is the Job posting page where you can see all the current openings of different firm and apply according to required skills. This application was inspired by women worldwide who were unable to access safe virtual circle with all career amenities.
 
 ## 💻 What it does
+- Write Blog daily
+- Job Posting page where users can find current openings of firm.
+- Product page where users can buy our products.
 
 ## ⚙️ How we built it
 
