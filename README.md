@@ -1,10 +1,11 @@
 # We'TheWomen
 
 ## 💡 Inspiration
-To provide a safer space for women and girls where they can communicate, collaborate, create their magic, and land their dream job, Our team came up with the idea of 
-**We'TheWomen**. On our website, users can collaborate with their peers to create something unique and show it to their whole community. You can also write daily blogs on our website. The best part about our website is the Job posting page where you can see all the current openings of the different firms and apply according to the required skills. This application was inspired by women worldwide who could not access a safe virtual circle with all career amenities.
+
+To provide a safer space for women and girls where they can communicate, collaborate, create their magic, and land their dream job, Our team came up with the idea of **We'TheWomen**. On our website, users can collaborate with their peers to create something unique and show it to their whole community. You can also write daily blogs on our website. The best part about our website is the Job posting page where you can see all the current openings of the different firms and apply according to the required skills. This application was inspired by women worldwide who could not access a safe virtual circle with all career amenities.
 
 ## 💻 What it does
+
 - Write a Blog daily
 - Job Posting page where users can find current openings of firms.
 - Product page where users can buy our products.
